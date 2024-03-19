@@ -87,7 +87,7 @@ endmodule
 
 
 
-## Result
+**Result**
 
 Thus, the half adder and full adder circuits are designed and the truth tables is verified using quartus software
 
