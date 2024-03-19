@@ -54,7 +54,10 @@ Program to design a half adder and full adder circuit and verify its truth table
 
 Developed by:JEGATHEESWARI R RegisterNumber:212223230092
 
+
+
 **code**
+
 
 **HALF ADDER**
 ```
@@ -69,17 +72,25 @@ endmodule
 
 **TRUTH TABLE**
 
+
 **HALF ADDER**
 ![image](https://github.com/Jegatheeswarir/HALF_ADDER_SUBTRACTOR/assets/144871077/d565e88a-1977-4583-9a15-40017d036e4e)
 
 
+
+
+
 **RTL Schematic**
+
 
 **HALF ADDER**
 ![image](https://github.com/Jegatheeswarir/HALF_ADDER_SUBTRACTOR/assets/144871077/aa89c8bb-292c-4f83-97d1-adde44660c94)
 
 
+
+
 **Output/TIMING Waveform**
+
 
 **HALF AADER**
 ![image](https://github.com/Jegatheeswarir/HALF_ADDER_SUBTRACTOR/assets/144871077/1d6d2e35-e97f-48dd-ac50-f65c822fe352)
