@@ -33,7 +33,7 @@ Borrow = A’B
 
 Figure -02 HALF Subtractor
 
-**Procedure**
+## Procedure
 
 1.	Type the program in Quartus software.
 
@@ -46,7 +46,7 @@ Figure -02 HALF Subtractor
 5.	For different input combinations generate the timing diagram.
 
 
-**Program:**
+## Program:
 
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.*/
 
@@ -74,7 +74,7 @@ assign carry=(~a)&b;
 endmodule
 ```
 
-**RTL Schematic**
+## RTL Schematic
 
 ## half adder:
 
@@ -101,7 +101,7 @@ endmodule
 
 
 
-**Output/TIMING Waveform**
+## Output/TIMING Waveform
 
 
 ## half adder
