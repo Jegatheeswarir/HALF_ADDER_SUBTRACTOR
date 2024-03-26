@@ -33,16 +33,6 @@ Borrow = A’B
 
 Figure -02 HALF Subtractor
 
-
-**Truthtable**
-
-## half adder:
-![add](3truth.png)
-
-## half subtractor:
-
-![sub](<3 sub truth.png>)
-
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -92,6 +82,19 @@ endmodule
 ## half sub:
 
 ![3sub dia](https://github.com/Jegatheeswarir/HALF_ADDER_SUBTRACTOR/assets/144871077/3b79bdbc-844e-4185-a66e-6839df75c3ba)
+
+**Truth table**
+**half adder:**
+
+![3truth](https://github.com/Jegatheeswarir/HALF_ADDER_SUBTRACTOR/assets/144871077/463beed9-0db2-428a-8b9c-82792e0b233c)
+
+**half subtractor:**
+
+![3 sub truth](https://github.com/Jegatheeswarir/HALF_ADDER_SUBTRACTOR/assets/144871077/6d7aee90-1dc9-41d8-84fc-87748cb9b25d)
+
+
+
+
 
 
 **Output/TIMING Waveform**
