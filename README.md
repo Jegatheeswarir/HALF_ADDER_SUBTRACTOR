@@ -87,19 +87,23 @@ endmodule
 
 ## half adder:
 
-![add](<3dia add.png>)
+![3dia add](https://github.com/Jegatheeswarir/HALF_ADDER_SUBTRACTOR/assets/144871077/0d15f84b-2db7-4bea-9d95-66943949585f)
+
 ## half sub:
 
-![sub](<3sub dia.png>)
+![3sub dia](https://github.com/Jegatheeswarir/HALF_ADDER_SUBTRACTOR/assets/144871077/3b79bdbc-844e-4185-a66e-6839df75c3ba)
+
 
 **Output/TIMING Waveform**
 
 ## half adder:
+![3 logic](https://github.com/Jegatheeswarir/HALF_ADDER_SUBTRACTOR/assets/144871077/f5b59f68-464e-43bb-aff8-0abd65584236)
 
-![add](<3 logic.png>)
+
 ## half sub:
 
-![sub](<3 sub trruth.png>)
+![3 sub trruth](https://github.com/Jegatheeswarir/HALF_ADDER_SUBTRACTOR/assets/144871077/ef40ce9e-3664-4fd9-a323-38ab1ee1871d)
+
 
 
 
